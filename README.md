@@ -108,8 +108,8 @@ me.say_hi()
     <td width="50%">
       <h3 align="center">☀️ Solar Energy Prediction</h3>
       <p align="center">
-        <a href="https://github.com/Chandru-debug1/solar-energy-prediction">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandru-debug1&repo=solar-energy-prediction&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA" alt="Solar Prediction"/>
+        <a href="https://github.com/Chandru-debug1/Solar-Energy-Prediction">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandru-debug1&repo=Solar-Energy-Prediction&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA" alt="Solar Prediction"/>
         </a>
       </p>
       <p align="center">
