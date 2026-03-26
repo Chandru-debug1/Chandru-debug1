@@ -88,7 +88,7 @@ me.say_hi()
       <h3 align="center">🎬 Netflix Data Analysis</h3>
       <p align="center">
         <a href="https://github.com/Chandru-debug1/netflix-data-analysis">
-          <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Chandru-debug1&repo=netflix-data-analysis&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA"](https://github-readme-stats.vercel.app/api/pin/?username=Chandru-debug1&repo=Solar_Energy_Prediction&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA) alt="Netflix Analysis"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandru-debug1&repo=netflix-data-analysis&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA" alt="Netflix Analysis"/>
         </a>
       </p>
       <p align="center">
