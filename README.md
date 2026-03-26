@@ -68,7 +68,7 @@ me.say_hi()
       <h3 align="center">🤖 RAG Pipeline & LLM Q&A System</h3>
       <p align="center">
         <a href="https://github.com/Chandru-debug1/rag-llm-system">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandru-debug1&repo=rag-llm-qa-system&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA" alt="RAG Project"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandru-debug1&repo=rag-llm-system&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA" alt="RAG Project"/>
         </a>
       </p>
       <p align="center">
