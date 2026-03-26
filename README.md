@@ -109,7 +109,7 @@ me.say_hi()
       <h3 align="center">☀️ Solar Energy Prediction</h3>
       <p align="center">
         <a href="https://github.com/Chandru-debug1/Solar_Energy_Prediction">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandru-debug1&repo=Solar-Energy-Prediction&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA" alt="Solar Prediction"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandru-debug1&repo=Solar_Energy_Prediction&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA" alt="Solar Prediction"/>
         </a>
       </p>
       <p align="center">
@@ -119,7 +119,7 @@ me.say_hi()
         <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=A78BFA"/>
         <img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=A78BFA"/>
         <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=A78BFA"/>
-        <a href="https://github.com/Chandru-debug1/solar-energy-prediction">
+        <a href="https://github.com/Chandru-debug1/Solar_Energy_Prediction.git">
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white"/>
         </a>
       </p>
