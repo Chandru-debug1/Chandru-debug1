@@ -109,13 +109,8 @@ me.say_hi()
       <h3 align="center">☀️ Solar Energy Prediction</h3>
       <p align="center">
         <a href="https://github.com/Chandru-debug1/Solar_Energy_Prediction">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandru-debug1&repo=Solar_Energy_Prediction&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA" alt="Solar Prediction"
-              # Solar Energy Prediction
-
-[![🚀 A machine learning project predicting solar energy production using weather and historical data.](https://github-readme-stats.vercel.app/api/pin/?username=Chandru-debug1&repo=Solar_Energy_Prediction&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA)](https://github.com/Chandru-debug1/Solar_Energy_Prediction)
-
-🚀 A machine learning project predicting solar energy production using weather and historical data./>
-        </a>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandru-debug1&repo=Solar_Energy_Prediction&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=A78BFA" alt="Solar Prediction"</a>
+ </a>
       </p>
       <p align="center">
         ML model predicting solar energy output from environmental factors — temperature, radiation, and weather — using regression with feature engineering.
