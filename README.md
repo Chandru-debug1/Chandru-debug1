@@ -79,7 +79,7 @@ me.say_hi()
         <img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=A78BFA"/>
         <img src="https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logo=meta&logoColor=A78BFA"/>
         <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=A78BFA"/>
-        <a href="https://github.com/Chandru-debug1/rag-llm-qa-system">
+        <a href="https://github.com/Chandru-debug1/rag-llm-system">
           <img src="https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white"/>
         </a>
       </p>
