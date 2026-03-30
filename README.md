@@ -192,7 +192,8 @@ me.say_hi()
 ---
 **## 🎓 Certifications
 
-- Data Science / Machine Learning Certification – [BOSTON INSTITUTE OF ANALYTICS] (2026)**
+- Data Science  Certification – [BOSTON INSTITUTE OF ANALYTICS] (2026)
+- Artificial Intellignce Certification – [BOSTON INSTITUTE OF ANALYTICS] (2026)**
 ## 🤝 Connect With Me
 
 <div align="center">
