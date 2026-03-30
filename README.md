@@ -190,10 +190,10 @@ me.say_hi()
 - ☀️ Fun fact: **I once predicted solar output better than the weather app**
 
 ---
-**## 🎓 Certifications
+## 🎓 Certifications
 
 - Data Science  Certification – [BOSTON INSTITUTE OF ANALYTICS] (2026)
-- Artificial Intellignce Certification – [BOSTON INSTITUTE OF ANALYTICS] (2026)**
+- Artificial Intellignce Certification – [BOSTON INSTITUTE OF ANALYTICS] (2026)
 ## 🤝 Connect With Me
 
 <div align="center">
