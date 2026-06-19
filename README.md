@@ -192,8 +192,10 @@ me.say_hi()
 ---
 ## 🎓 Certifications
 
-- Data Science  Certification – [BOSTON INSTITUTE OF ANALYTICS] (2026)
-- Artificial Intellignce Certification – [BOSTON INSTITUTE OF ANALYTICS] (2026)
+- Data Science  Certification – BOSTON INSTITUTE OF ANALYTICS (2026)
+- Artificial Intellignce Certification – BOSTON INSTITUTE OF ANALYTICS (2026)
+- Hands-On AI: Building LLM-Powered Apps – Linkedin Learning
+- AWS Academy Cloud Foundations (AWS) – AWS Academy Graduate
 ## 🤝 Connect With Me
 
 <div align="center">
